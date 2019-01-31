@@ -1,2 +1,2 @@
 # AWS-IoT
-My notes for AWS IoT course done from Amazon.
+Self explainatory notes for AWS IoT course done from Amazon.
